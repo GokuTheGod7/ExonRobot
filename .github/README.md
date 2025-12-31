@@ -1,23 +1,23 @@
 ━━━━━━━━━━━━━━━━━━━━
 <h2 align="center">
-    ──「 ᴇxᴏɴ   ʀᴏʙᴏᴛ 」──
+    ──「 𝐋𝐨𝐫𝐝 𝐁𝐞𝐞𝐫𝐮𝐬 」──
 </h2>
 
-##  ᴄᴀᴛᴄʜ ᴍᴇ ɪɴ [ᴛɢ🏃‍♀️](https://t.me/AbishnoiMF) 
+##  ᴄᴀᴛᴄʜ ᴍᴇ ɪɴ [ᴛɢ🏃‍♀️](https://t.me/OG_Goku_God_7) 
 
 ## sᴛᴀᴛs
 <p align="center">
-<a href="https://github.com/AshokShau/ExonRobot/stargazers"><img src="https://img.shields.io/github/stars/AshokShau/ExonRobot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/AshokShau/ExonRobot/network/members"> <img src="https://img.shields.io/github/forks/AshokShau/ExonRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/AshokShau/ExonRobot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/GokuTheGod7/Lordbeer_us_bot/stargazers"><img src="https://img.shields.io/github/stars/GokuTheGod7/Lordbeer_us_bot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/GokuTheGod7/Lordbeer_us_bot/network/members"> <img src="https://img.shields.io/github/forks/GokuTheGod7/Lordbeer_us_bot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/GokuTheGod7/Lordbeer_us_bot/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=white&label=telethon&logo=python&logoColor=blue&style=for-the-badge" /></a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/AshokShau/ExonRobot"> <img src="https://img.shields.io/github/repo-size/AshokShau/ExonRobot?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/AshokShau/ExonRobot/commits/AshokShau"> <img src="https://img.shields.io/github/last-commit/AshokShau/ExonRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/GokuTheGod7/Lordbeer_us_bot"> <img src="https://img.shields.io/github/repo-size/GokuTheGod7/Lordbeer_us_bot?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
+<a href="https://github.com/GokuTheGod7//commits/GokuTheGod7"> <img src="https://img.shields.io/github/last-commit/GokuTheGod7/Lordbeer_us_bot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴇxᴏɴ ✘ ʀᴏʙᴏᴛ](https://t.me/Exon_Robot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𝐋𝐨𝐫𝐝 𝐁𝐞𝐞𝐫𝐮𝐬](https://t.me/Lordbeer_us_bot)**_
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -79,7 +79,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴇxᴏɴ ✘ ʀᴏ
 - `sudo apt install python3-pip`
 
 - ᴄʟᴏɴᴇ ᴛʜᴇ ʀᴇᴘᴏsɪᴛᴏʀʏ ʙʏ :
-- `git clone https://github.com/AshokShau/ExonRobot`
+- `git clone https://github.com//ExonRobot`
 
 - ᴇɴᴛᴇʀ ɪɴ ʀᴇᴘᴏ
 - `cd ExonRobot`
@@ -107,7 +107,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴇxᴏɴ ✘ ʀᴏ
 - -ᴘʀᴇss `Ctrl + C` ᴏɴᴄᴇ ʏᴏᴜ ᴀʀᴇ ᴅᴏɴᴇ ᴡɪᴛʜ ᴇᴅɪᴛɪɴɢ ᴠᴀʀs ᴀɴᴅ ᴛʏᴘᴇ  `:wq` ᴛᴏ sᴀᴠᴇ .ᴇɴᴠ ᴏʀ `:qa` ᴛᴏ ᴇxɪᴛ ᴇᴅɪᴛɪɴɢ.
 
 - ғɪɴᴀʟʟʏ ʀᴜɴ ᴛʜᴇ ʙᴏᴛ ʙʏ :
-- `python3 -m Exon`
+- `GokuTheGod7`
 
 - -ғᴏʀ ᴜᴘᴅᴀᴛᴇ ʏᴏᴜʀ ɴᴇᴡ ᴄᴏᴍᴍɪᴛ ᴜsᴇ :→ `git pull`
 ━━━━━━━━━━━━━━━━━━━━
@@ -136,13 +136,13 @@ OWNER_ID =  sᴛᴀʀᴛ @Exon_Robot & ᴛʏᴘᴇ /id
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/AbishnoiMF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Universe_7Reborn"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/AshokShau"><img src="https://img.shields.io/badge/Abishnoi%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/OG_Goku_God_7"><img src="https://img.shields.io/badge/Abishnoi%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-[ᴜᴘᴅᴀᴛɪɴɢ ʏᴏᴜʀ ғᴏʀᴋ ᴡɪᴛʜ ᴛʜᴇ ᴜᴘsᴛʀᴇᴀᴍ ʀᴇᴘᴏ](https://t.me/Abishnoi_bots/43)
+[ᴜᴘᴅᴀᴛɪɴɢ ʏᴏᴜʀ ғᴏʀᴋ ᴡɪᴛʜ ᴛʜᴇ ᴜᴘsᴛʀᴇᴀᴍ ʀᴇᴘᴏ](https://t.me/eternal_bot_update)
 
 ━━━━━━━━━━━━━━━━━━━━
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -154,10 +154,8 @@ OWNER_ID =  sᴛᴀʀᴛ @Exon_Robot & ᴛʏᴘᴇ /id
 </h3>
  : ➻
 
-➥ [AshokShau] × <a href="https://github.com/AshokShau" alt="AshokShau"> <img src="https://img.shields.io/badge/AshokShau-90302f?logo=github" /></a>  
-
-➥ [𝐀ɴᴏɴʏᴍᴏᴜs] × <a href="http://github.com/AnonymousX1025/FallenRobot" alt="AnonymousX1025"> <img src="https://img.shields.io/badge/Anonymous-90302f?logo=github" /></a>  
+➥ [GokuTheGod7] × <a href="https://github.com/GokuTheGod7" alt="AshokShau"> <img src="https://img.shields.io/badge/AshokShau-90302f?logo=github" /></a>  
 
 
-➥ [𝐏ᴀᴜʟsᴏɴᴏғʟᴀʀs] × <a href="https://github.com/PaulSonOfLars/tgbot" alt="PaulSonOfLars"> <img src="https://img.shields.io/badge/PaulSonOfLars-90302f?logo=github" /></a>  
-━━━━━━━━━━━━━━━━━━━━
+
+
